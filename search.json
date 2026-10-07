@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m happy to talk about analytics, financial reporting, or opportunities. The best way to reach me is email.\nEmail me (kmbowles0 at outlook dot com) Download resume (PDF)"
+  },
+  {
+    "objectID": "contact.html#elsewhere",
+    "href": "contact.html#elsewhere",
+    "title": "Contact",
+    "section": "Elsewhere",
+    "text": "Elsewhere\n\nLinkedIn \nGitHub"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Visualization Analysis Across Cultures\n\n\n\nPython\n\nWeb scraping\n\nAPIs\n\nResearch\n\n\n\nA research project collecting and analyzing data visualizations from non-WEIRD cultures, extracting color and language information with Python.\n\n\n\nApr 30, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "skills.html",
     "href": "skills.html",
     "title": "Skills",
@@ -35,48 +56,6 @@
     "text": "Areas of Focus\n\n\nDashboard and report development\nFinancial reporting\nData modeling\nDigital transformation\nSOX control support\nMachine learning\nCloud data analytics"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Data Visualization Analysis Across Cultures\n\n\n\nPython\n\nWeb scraping\n\nAPIs\n\nResearch\n\n\n\nA research project collecting and analyzing data visualizations from non-WEIRD cultures, extracting color and language information with Python.\n\n\n\nApr 30, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience & Education",
-    "section": "",
-    "text": "June 2024 to present\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nLeads development of data-driven tools that turn complex financial data into actionable insight for stakeholders.\nSupports and leads digital transformation efforts across the Finance organization.\nExtracts, analyzes, and models large datasets to support reporting and decision-making, building and maintaining interactive and exploratory dashboards and reports.\nDeveloped a labor detail dashboard integrating six years of data for more than 30,000 employees, enabling faster trend analysis and better decisions at every management level to optimize production and delivery.\nSupports Oracle financial processes, including project setup, SQL querying, and billing, and produces accurate, timely financial reports for cross-functional teams.\nSupports SOX control processes and narrative development.\n\n\n\n\n\nJune to August 2023\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nBuilt Power BI reports that present analytics in a clear, intuitive way.\nBuilt customized dynamic distributions and charts to support business processes.\n\n\n\n\n\nAugust 2022 to May 2024\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupervised student employees and library functions.\nSupported student research and studies.\n\n\n\n\n\nOctober 2020 to June 2022\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupported student research and studies."
-  },
-  {
-    "objectID": "experience.html#experience",
-    "href": "experience.html#experience",
-    "title": "Experience & Education",
-    "section": "",
-    "text": "June 2024 to present\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nLeads development of data-driven tools that turn complex financial data into actionable insight for stakeholders.\nSupports and leads digital transformation efforts across the Finance organization.\nExtracts, analyzes, and models large datasets to support reporting and decision-making, building and maintaining interactive and exploratory dashboards and reports.\nDeveloped a labor detail dashboard integrating six years of data for more than 30,000 employees, enabling faster trend analysis and better decisions at every management level to optimize production and delivery.\nSupports Oracle financial processes, including project setup, SQL querying, and billing, and produces accurate, timely financial reports for cross-functional teams.\nSupports SOX control processes and narrative development.\n\n\n\n\n\nJune to August 2023\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nBuilt Power BI reports that present analytics in a clear, intuitive way.\nBuilt customized dynamic distributions and charts to support business processes.\n\n\n\n\n\nAugust 2022 to May 2024\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupervised student employees and library functions.\nSupported student research and studies.\n\n\n\n\n\nOctober 2020 to June 2022\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupported student research and studies."
-  },
-  {
-    "objectID": "experience.html#education",
-    "href": "experience.html#education",
-    "title": "Experience & Education",
-    "section": "Education",
-    "text": "Education\n\n\n\nJanuary 2026 to May 2027 (expected)\n\n\nM.S. Applied Business Analytics\n\nBoston University, Boston, MA\n\nRelevant coursework: Business Analytics Foundations, Financial Concepts, Enterprise Risk Analytics, Big Data and Cloud Analytics for Business.\n\n\n\n\nAugust 2020 to May 2024\n\n\nB.S. Data Science\n\nWorcester Polytechnic Institute, Worcester, MA\n\nRelevant coursework: Modeling and Data Analysis, Computational Data Intelligence, Data Analysis for Decision Making, Business Data Management, Machine Learning, Artificial Intelligence, Cloud Data Analytics.\n\n\n\nDownload my resume (PDF)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I’m happy to talk about analytics, financial reporting, or opportunities. The best way to reach me is email.\nEmail me (kmbowles0 at outlook dot com) Download resume (PDF)"
-  },
-  {
-    "objectID": "contact.html#elsewhere",
-    "href": "contact.html#elsewhere",
-    "title": "Contact",
-    "section": "Elsewhere",
-    "text": "Elsewhere\n\nLinkedIn \nGitHub"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Katie Bowles",
@@ -103,6 +82,27 @@
     "title": "Katie Bowles",
     "section": "Highlights",
     "text": "Highlights\nI recently completed developement of a labor detail dashboard that brings together six years of data for more than 30,000 employees. It lets management at every level spot trends faster and make better decisions to optimize production and delivery while supporting more effective analysis in workforce planning and resource allocation."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience & Education",
+    "section": "",
+    "text": "June 2024 to present\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nLeads development of data-driven tools that turn complex financial data into actionable insight for stakeholders.\nSupports and leads digital transformation efforts across the Finance organization.\nExtracts, analyzes, and models large datasets to support reporting and decision-making, building and maintaining interactive and exploratory dashboards and reports.\nDeveloped a labor detail dashboard integrating six years of data for more than 30,000 employees, enabling faster trend analysis and better decisions at every management level to optimize production and delivery.\nSupports Oracle financial processes, including project setup, SQL querying, and billing, and produces accurate, timely financial reports for cross-functional teams.\nSupports SOX control processes and narrative development.\n\n\n\n\n\nJune 2023 to August 2023\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nBuilt Power BI reports that present analytics in a clear, intuitive way.\nBuilt customized dynamic distributions and charts to support business processes.\n\n\n\n\n\nAugust 2022 to May 2024\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupervised student employees and library functions.\nSupported student research and studies.\n\n\n\n\n\nOctober 2020 to June 2022\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupported student research and studies."
+  },
+  {
+    "objectID": "experience.html#experience",
+    "href": "experience.html#experience",
+    "title": "Experience & Education",
+    "section": "",
+    "text": "June 2024 to present\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nLeads development of data-driven tools that turn complex financial data into actionable insight for stakeholders.\nSupports and leads digital transformation efforts across the Finance organization.\nExtracts, analyzes, and models large datasets to support reporting and decision-making, building and maintaining interactive and exploratory dashboards and reports.\nDeveloped a labor detail dashboard integrating six years of data for more than 30,000 employees, enabling faster trend analysis and better decisions at every management level to optimize production and delivery.\nSupports Oracle financial processes, including project setup, SQL querying, and billing, and produces accurate, timely financial reports for cross-functional teams.\nSupports SOX control processes and narrative development.\n\n\n\n\n\nJune 2023 to August 2023\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nBuilt Power BI reports that present analytics in a clear, intuitive way.\nBuilt customized dynamic distributions and charts to support business processes.\n\n\n\n\n\nAugust 2022 to May 2024\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupervised student employees and library functions.\nSupported student research and studies.\n\n\n\n\n\nOctober 2020 to June 2022\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupported student research and studies."
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Experience & Education",
+    "section": "Education",
+    "text": "Education\n\n\n\nJanuary 2026 to May 2027 (expected)\n\n\nM.S. Applied Business Analytics\n\nBoston University, Boston, MA\n\nRelevant coursework: Business Analytics Foundations, Financial Concepts, Enterprise Risk Analytics, Big Data and Cloud Analytics for Business.\n\n\n\n\nAugust 2020 to May 2024\n\n\nB.S. Data Science\n\nWorcester Polytechnic Institute, Worcester, MA\n\nRelevant coursework: Modeling and Data Analysis, Computational Data Intelligence, Data Analysis for Decision Making, Business Data Management, Machine Learning, Artificial Intelligence, Cloud Data Analytics.\n\n\n\nDownload my resume (PDF)"
   },
   {
     "objectID": "projects/wpi-dataviz-cultures/index.html",
