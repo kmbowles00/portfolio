@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Tools and languages I use to turn raw data into decisions."
+  },
+  {
+    "objectID": "skills.html#programming-languages",
+    "href": "skills.html#programming-languages",
+    "title": "Skills",
+    "section": "Programming Languages",
+    "text": "Programming Languages\n\n\nPython\nR\nSQL\nDAX\nJava"
+  },
+  {
+    "objectID": "skills.html#tools",
+    "href": "skills.html#tools",
+    "title": "Skills",
+    "section": "Tools",
+    "text": "Tools\n\n\nPower BI\nLooker Studio\nAlteryx\nAWS\nSQL Developer\nR-Studio\nVisual Studio Model Developer\nZephyr"
+  },
+  {
+    "objectID": "skills.html#business-applications",
+    "href": "skills.html#business-applications",
+    "title": "Skills",
+    "section": "Business Applications",
+    "text": "Business Applications\n\n\nOracle EBS\nMicrosoft Suite\nGoogle Suite"
+  },
+  {
+    "objectID": "skills.html#areas-of-focus",
+    "href": "skills.html#areas-of-focus",
+    "title": "Skills",
+    "section": "Areas of Focus",
+    "text": "Areas of Focus\n\n\nDashboard and report development\nFinancial reporting\nData modeling\nDigital transformation\nSOX control support\nMachine learning\nCloud data analytics"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Visualization Analysis Across Cultures\n\n\n\nPython\n\nWeb scraping\n\nAPIs\n\nResearch\n\n\n\nA research project collecting and analyzing data visualizations from non-WEIRD cultures, extracting color and language information with Python.\n\n\n\nApr 30, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience & Education",
+    "section": "",
+    "text": "June 2024 to present\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nLeads development of data-driven tools that turn complex financial data into actionable insight for stakeholders.\nSupports and leads digital transformation efforts across the Finance organization.\nExtracts, analyzes, and models large datasets to support reporting and decision-making, building and maintaining interactive and exploratory dashboards and reports.\nDeveloped a labor detail dashboard integrating six years of data for more than 30,000 employees, enabling faster trend analysis and better decisions at every management level to optimize production and delivery.\nSupports Oracle financial processes, including project setup, SQL querying, and billing, and produces accurate, timely financial reports for cross-functional teams.\nSupports SOX control processes and narrative development.\n\n\n\n\n\nJune to August 2023\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nBuilt Power BI reports that present analytics in a clear, intuitive way.\nBuilt customized dynamic distributions and charts to support business processes.\n\n\n\n\n\nAugust 2022 to May 2024\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupervised student employees and library functions.\nSupported student research and studies.\n\n\n\n\n\nOctober 2020 to June 2022\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupported student research and studies."
+  },
+  {
+    "objectID": "experience.html#experience",
+    "href": "experience.html#experience",
+    "title": "Experience & Education",
+    "section": "",
+    "text": "June 2024 to present\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nLeads development of data-driven tools that turn complex financial data into actionable insight for stakeholders.\nSupports and leads digital transformation efforts across the Finance organization.\nExtracts, analyzes, and models large datasets to support reporting and decision-making, building and maintaining interactive and exploratory dashboards and reports.\nDeveloped a labor detail dashboard integrating six years of data for more than 30,000 employees, enabling faster trend analysis and better decisions at every management level to optimize production and delivery.\nSupports Oracle financial processes, including project setup, SQL querying, and billing, and produces accurate, timely financial reports for cross-functional teams.\nSupports SOX control processes and narrative development.\n\n\n\n\n\nJune to August 2023\n\n\n\n\nGeneral Dynamics Electric Boat, Groton, CT\n\n\nBuilt Power BI reports that present analytics in a clear, intuitive way.\nBuilt customized dynamic distributions and charts to support business processes.\n\n\n\n\n\nAugust 2022 to May 2024\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupervised student employees and library functions.\nSupported student research and studies.\n\n\n\n\n\nOctober 2020 to June 2022\n\n\n\n\nWorcester Polytechnic Institute, Gordon Library, Worcester, MA\n\n\nSupported student research and studies."
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Experience & Education",
+    "section": "Education",
+    "text": "Education\n\n\n\nJanuary 2026 to May 2027 (expected)\n\n\nM.S. Applied Business Analytics\n\nBoston University, Boston, MA\n\nRelevant coursework: Business Analytics Foundations, Financial Concepts, Enterprise Risk Analytics, Big Data and Cloud Analytics for Business.\n\n\n\n\nAugust 2020 to May 2024\n\n\nB.S. Data Science\n\nWorcester Polytechnic Institute, Worcester, MA\n\nRelevant coursework: Modeling and Data Analysis, Computational Data Intelligence, Data Analysis for Decision Making, Business Data Management, Machine Learning, Artificial Intelligence, Cloud Data Analytics.\n\n\n\nDownload my resume (PDF)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m happy to talk about analytics, financial reporting, or opportunities. The best way to reach me is email.\nEmail me (kmbowles0 at outlook dot com) Download resume (PDF)"
+  },
+  {
+    "objectID": "contact.html#elsewhere",
+    "href": "contact.html#elsewhere",
+    "title": "Contact",
+    "section": "Elsewhere",
+    "text": "Elsewhere\n\nLinkedIn \nGitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Katie Bowles",
+    "section": "",
+    "text": "As a data enthusiast, I build dashboards, reports, and automate data tools that turn complex data into clear and actionable insights for all levels of management and reporting.\nI’m a Financial Applications Business Analyst in Connecticut, where I help lead digital transformation across the finance and accounting organizations. I studied Data Science at Worcester Polytechnic Institute and am now pursuing a Master of Science in Applied Business Analytics at Boston University.\nIn my spare time, I enjoy exploring new data visualization techniques for personal projects- when I am not unwinding with a good book or on outdoor adventures.\nSee My Experience Browse Projects"
+  },
+  {
+    "objectID": "index.html#optimization-focused-business-analyst",
+    "href": "index.html#optimization-focused-business-analyst",
+    "title": "Katie Bowles",
+    "section": "",
+    "text": "As a data enthusiast, I build dashboards, reports, and automate data tools that turn complex data into clear and actionable insights for all levels of management and reporting.\nI’m a Financial Applications Business Analyst in Connecticut, where I help lead digital transformation across the finance and accounting organizations. I studied Data Science at Worcester Polytechnic Institute and am now pursuing a Master of Science in Applied Business Analytics at Boston University.\nIn my spare time, I enjoy exploring new data visualization techniques for personal projects- when I am not unwinding with a good book or on outdoor adventures.\nSee My Experience Browse Projects"
+  },
+  {
+    "objectID": "index.html#what-i-work-on",
+    "href": "index.html#what-i-work-on",
+    "title": "Katie Bowles",
+    "section": "What I Work On",
+    "text": "What I Work On\n\nDashboards and Reporting. Interactive and exploratory developement in Power BI and Looker Studio that stakeholders use to track and understand KPIs.\nFinancial Systems. Oracle support, SQL querying, and billing support, plus ensuring accurate, timely, and reliable information for decision-making.\nData Analysis and Modeling. Python, R, SQL, and DAX for extracting, analyzing, and modeling large datasets.\nControls. Support for SOX control processes and narrative development."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Katie Bowles",
+    "section": "Highlights",
+    "text": "Highlights\nI recently completed developement of a labor detail dashboard that brings together six years of data for more than 30,000 employees. It lets management at every level spot trends faster and make better decisions to optimize production and delivery while supporting more effective analysis in workforce planning and resource allocation."
+  },
+  {
+    "objectID": "projects/wpi-dataviz-cultures/index.html",
+    "href": "projects/wpi-dataviz-cultures/index.html",
+    "title": "Data Visualization Analysis Across Cultures",
+    "section": "",
+    "text": "Institution: Worcester Polytechnic Institute, Worcester, MA\nTimeline: August 2023 to April 2024\nTools: Python, APIs"
+  },
+  {
+    "objectID": "projects/wpi-dataviz-cultures/index.html#overview",
+    "href": "projects/wpi-dataviz-cultures/index.html#overview",
+    "title": "Data Visualization Analysis Across Cultures",
+    "section": "Overview",
+    "text": "Overview\nThis project at Worcester Polytechnic Institute examined data visualizations created across non-WEIRD cultures, meaning cultures outside the Western, Educated, Industrialized, Rich, and Democratic populations that most research draws from."
+  },
+  {
+    "objectID": "projects/wpi-dataviz-cultures/index.html#what-i-did",
+    "href": "projects/wpi-dataviz-cultures/index.html#what-i-did",
+    "title": "Data Visualization Analysis Across Cultures",
+    "section": "What I did",
+    "text": "What I did\n\nUsed APIs and algorithms to collect data visualizations from a range of cultures and analyze them.\nScraped color and language information from the collected visualizations and their associated websites using Python."
+  }
+]
