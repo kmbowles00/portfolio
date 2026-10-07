@@ -1,0 +1,36 @@
+---
+title: "Data Visualization Analysis Across Cultures"
+description: "A research project collecting and analyzing data visualizations from non-WEIRD cultures, extracting color and language information with Python."
+date: 2024-04-30
+categories: [Python, Web scraping, APIs, Research]
+image: thumbnail.svg
+---
+
+::: {.project-meta}
+**Institution:** Worcester Polytechnic Institute, Worcester, MA
+
+**Timeline:** August 2023 to April 2024
+
+**Tools:** Python, APIs
+
+<!-- TODO: **Role:** e.g., team member / lead, advisor name, team size -->
+:::
+
+## Overview
+
+This project at Worcester Polytechnic Institute examined data visualizations created across non-WEIRD cultures, meaning cultures outside the Western, Educated, Industrialized, Rich, and Democratic populations that most research draws from.
+
+<!-- TODO: 2-3 sentences on WHY: the research question or motivation. -->
+
+## What I did
+
+- Used APIs and algorithms to collect data visualizations from a range of cultures and analyze them.
+- Scraped color and language information from the collected visualizations and their associated websites using Python.
+
+<!-- TODO: add detail: how many visualizations/sources, which APIs, how color was extracted, how language was identified, how you cleaned the data. -->
+
+<!-- TODO: ## Findings -- what patterns did you see? Add a chart or image: ![Alt text](my-figure.png) -->
+
+<!-- TODO: ## What I learned -->
+
+<!-- TODO: ## Links -- paper, poster, GitHub repo, slides. e.g. [View the code](https://github.com/...){.btn-soft} -->

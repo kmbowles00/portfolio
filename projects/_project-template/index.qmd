@@ -1,0 +1,63 @@
+---
+# HOW TO USE THIS TEMPLATE
+# 1. Copy this whole folder to projects/your-project-name/  (keep the file named index.qmd)
+# 2. Replace the front matter below and the section prompts.
+# 3. Add a thumbnail image (about 600x400) in the folder and reference it in `image:`.
+# 4. Delete any section you don't need. The project appears on the Projects page automatically.
+# (Folders starting with "_" are ignored by Quarto, so this template never publishes.)
+
+title: "Project title"
+description: "One sentence a recruiter can skim: what you built, for whom, and the result."
+date: 2026-01-01          # drives sort order on the Projects page
+categories: [Python, Dashboard, Finance]   # tools/themes; used as tags on the card
+image: thumbnail.svg
+---
+
+::: {.project-meta}
+**Context:** Course, employer, or personal project
+
+**Timeline:** Month Year to Month Year
+
+**Role:** Your role and team size
+
+**Tools:** Tool 1, Tool 2, Tool 3
+:::
+
+## The problem
+
+Who needed what, and why did it matter? Two or three sentences.
+
+## What I did
+
+- Action verb + what you built or analyzed + the tools you used.
+- Add the scale (rows of data, users, years of history).
+- Add the outcome (time saved, decisions improved, accuracy gained).
+
+## Approach
+
+Walk through the data sources, cleaning, modeling, or design choices. Screenshots and charts go here:
+
+![Short description of the image for screen readers](figure.png){fig-alt="Describe the image" width="80%"}
+
+Optional: show a code sample without running it. Change `eval: false` to `true` to execute it when rendering.
+
+```{python}
+#| eval: false
+import pandas as pd
+
+df = pd.read_csv("data.csv")
+df.groupby("category")["value"].mean()
+```
+
+## Results
+
+What did you find or deliver? Lead with the most important number or insight.
+
+## What I learned
+
+One or two honest reflections: what you'd do differently, or what you'd explore next.
+
+## Links
+
+[View the code](https://github.com/YOUR-USERNAME/REPO){.btn-rose}
+[Live demo or report](https://example.com){.btn-soft}

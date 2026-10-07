@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+I'm happy to talk about analytics, financial reporting, or opportunities. The best way to reach me is email.
+
+[Email me](mailto:kmbowles0@outlook.com){.btn-rose}
+[Download resume (PDF)](assets/Katie_Bowles_Resume.pdf){.btn-soft download="Katie_Bowles_Resume.pdf"}
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/katie-bowles00) <!-- TODO -->
+- [GitHub](https://github.com/kmbowles00) <!-- TODO -->
+
+<!-- revisit: revisit: adding a contact form with Formspree (https://formspree.io) or a Google Form embed. -->

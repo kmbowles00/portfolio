@@ -1,0 +1,47 @@
+project:
+  type: website
+
+# Skip re-running code on CI; re-renders only when you change a code cell.
+execute:
+  freeze: auto
+
+resources:
+  - assets/Katie_Bowles_Resume.pdf
+
+website:
+  title: "Katie Bowles"
+  # TODO: replace with your real URL once the repo exists, e.g. https://katiebowles.github.io/portfolio
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO"
+  description: "Portfolio of Katie Bowles: financial applications business analyst, data scientist, and Applied Business Analytics graduate student."
+  favicon: images/favicon.svg
+  open-graph: true
+  twitter-card: true
+  navbar:
+    background: light
+    search: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Experience & Education"
+        href: experience.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: file-earmark-arrow-down
+        text: "Resume"
+        href: assets/Katie_Bowles_Resume.pdf
+  page-footer:
+    left: "© 2026 Katie Bowles"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, styles/theme.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    email-obfuscation: javascript

@@ -1,0 +1,14 @@
+---
+title: "Projects"
+subtitle: "Selected analytics, data science, and dashboard work"
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  fields: [image, title, description, categories, date]
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---

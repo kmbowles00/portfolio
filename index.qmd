@@ -1,0 +1,40 @@
+---
+title: "Katie Bowles"
+image: images/headshot.svg   # TODO: swap in a real photo (square, 800px+)
+about:
+  template: solana
+  image-width: 14em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/katie-bowles00  # TODO
+    - icon: github
+      text: GitHub
+      href: https://github.com/kmbowles00
+    - icon: envelope
+      text: Email
+      href: mailto:kmbowles0@outlook.com
+---
+## Optimization Focused Business Analyst
+As a data enthusiast, I build dashboards, reports, and automate data tools that turn complex  data into clear and actionable insights for all levels of management and reporting.
+
+I'm a Financial Applications Business Analyst in Connecticut, where I help lead digital transformation across the finance and accounting organizations. I studied Data Science at Worcester Polytechnic Institute and am now pursuing a Master of Science in Applied Business Analytics at Boston University.
+
+In my spare time, I enjoy exploring new data visualization techniques for personal projects- when I am not unwinding with a good book or on outdoor adventures.
+
+[See My Experience](experience.qmd){.btn-rose}
+[Browse Projects](projects/index.qmd){.btn-soft}
+
+## What I Work On
+
+- **Dashboards and Reporting.** Interactive and exploratory developement in Power BI and Looker Studio that stakeholders use to track and understand KPIs.
+- **Financial Systems.** Oracle support, SQL querying, and billing support, plus ensuring accurate, timely, and reliable information for decision-making.
+- **Data Analysis and Modeling.** Python, R, SQL, and DAX for extracting, analyzing, and modeling large datasets.
+- **Controls.** Support for SOX control processes and narrative development.
+
+## Highlights
+
+I recently completed developement of a labor detail dashboard that brings together six years of data for more than 30,000 employees. It lets management at every level spot trends faster and make better decisions to optimize production and delivery while supporting more effective analysis in workforce planning and resource allocation.
+
+<!-- TODO: add a 1-2 more sentences of personal notes. -->

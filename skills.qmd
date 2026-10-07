@@ -1,0 +1,58 @@
+---
+title: "Skills"
+---
+
+Tools and languages I use to turn raw data into decisions.
+
+::: {.skill-group}
+## Programming Languages
+
+::: {.pills}
+- Python
+- R
+- SQL
+- DAX
+- Java
+:::
+:::
+
+::: {.skill-group .sage}
+## Tools
+
+::: {.pills}
+- Power BI
+- Looker Studio
+- Alteryx
+- AWS
+- SQL Developer
+- R-Studio
+- Visual Studio Model Developer
+- Zephyr
+:::
+:::
+
+::: {.skill-group .rose}
+## Business Applications
+
+::: {.pills}
+- Oracle EBS
+- Microsoft Suite
+- Google Suite
+:::
+:::
+
+::: {.skill-group}
+## Areas of Focus
+
+::: {.pills}
+- Dashboard and report development
+- Financial reporting
+- Data modeling
+- Digital transformation
+- SOX control support
+- Machine learning
+- Cloud data analytics
+:::
+:::
+
+<!-- TODO: add proficiency notes, certifications (e.g., Power BI, AWS), or links to the project that shows each skill. -->

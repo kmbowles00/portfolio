@@ -1,0 +1,108 @@
+---
+title: "Experience & Education"
+---
+
+## Experience
+
+::: {.timeline}
+
+::: {.tl-item}
+::: {.tl-when}
+June 2024 to present
+:::
+
+### Financial Applications Business Analyst
+
+::: {.tl-where}
+General Dynamics Electric Boat, Groton, CT
+:::
+
+- Leads development of data-driven tools that turn complex financial data into actionable insight for stakeholders.
+- Supports and leads digital transformation efforts across the Finance organization.
+- Extracts, analyzes, and models large datasets to support reporting and decision-making, building and maintaining interactive and exploratory dashboards and reports.
+- Developed a labor detail dashboard integrating six years of data for more than 30,000 employees, enabling faster trend analysis and better decisions at every management level to optimize production and delivery.
+- Supports Oracle financial processes, including project setup, SQL querying, and billing, and produces accurate, timely financial reports for cross-functional teams.
+- Supports SOX control processes and narrative development.
+:::
+
+::: {.tl-item}
+::: {.tl-when}
+June to August 2023
+:::
+
+### Support Services Intern
+
+::: {.tl-where}
+General Dynamics Electric Boat, Groton, CT
+:::
+
+- Built Power BI reports that present analytics in a clear, intuitive way.
+- Built customized dynamic distributions and charts to support business processes.
+:::
+
+::: {.tl-item}
+::: {.tl-when}
+August 2022 to May 2024
+:::
+
+### Student Supervisor
+
+::: {.tl-where}
+Worcester Polytechnic Institute, Gordon Library, Worcester, MA
+:::
+
+- Supervised student employees and library functions.
+- Supported student research and studies.
+:::
+
+::: {.tl-item}
+::: {.tl-when}
+October 2020 to June 2022
+:::
+
+### Student Assistant
+
+::: {.tl-where}
+Worcester Polytechnic Institute, Gordon Library, Worcester, MA
+:::
+
+- Supported student research and studies.
+:::
+
+:::
+
+## Education
+
+::: {.timeline}
+
+::: {.tl-item}
+::: {.tl-when}
+January 2026 to May 2027 (expected)
+:::
+
+### M.S. Applied Business Analytics
+
+::: {.tl-where}
+Boston University, Boston, MA
+:::
+
+Relevant coursework: Business Analytics Foundations, Financial Concepts, Enterprise Risk Analytics, Big Data and Cloud Analytics for Business.
+:::
+
+::: {.tl-item}
+::: {.tl-when}
+August 2020 to May 2024
+:::
+
+### B.S. Data Science
+
+::: {.tl-where}
+Worcester Polytechnic Institute, Worcester, MA
+:::
+
+Relevant coursework: Modeling and Data Analysis, Computational Data Intelligence, Data Analysis for Decision Making, Business Data Management, Machine Learning, Artificial Intelligence, Cloud Data Analytics.
+:::
+
+:::
+
+[Download my resume (PDF)](assets/Katie_Bowles_Resume.pdf){.btn-rose download="Katie_Bowles_Resume.pdf"}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Placeholder portrait with initials KB">
+  <rect width="400" height="400" fill="#FBE4DB"/>
+  <circle cx="200" cy="160" r="70" fill="#F2B3C0"/>
+  <path d="M60 400c0-80 60-130 140-130s140 50 140 130z" fill="#F2B3C0"/>
+  <text x="200" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#7E2243">KB</text>
+</svg>
