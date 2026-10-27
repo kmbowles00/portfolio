@@ -1,6 +1,6 @@
 ---
 title: "Katie Bowles"
-image: images/headshot.svg   # TODO: swap in a real photo (square, 800px+)
+image: portfolio_pic.jpg
 about:
   template: solana
   image-width: 14em
@@ -8,10 +8,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/katie-bowles00  # TODO
+      href: https://www.linkedin.com/in/YOUR-HANDLE
     - icon: github
       text: GitHub
-      href: https://github.com/kmbowles00
+      href: https://github.com/YOUR-USERNAME
     - icon: envelope
       text: Email
       href: mailto:kmbowles0@outlook.com

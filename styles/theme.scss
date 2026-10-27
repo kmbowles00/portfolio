@@ -123,6 +123,13 @@ a:focus-visible, .btn-rose:focus-visible, .btn-soft:focus-visible {
 .lede { font-size: 1.2rem; }
 footer.footer { border-top: 2px solid #F6D9D3; }
 
+
+// Border around the home page photo
+.about-image {
+  border: 5px solid #5A1F37;   // rose border
+  padding: 2px;                // gap between photo and border
+  background: #FFF7F3;         // fills the gap with the page color
+}
 @media (max-width: 576px) {
   .timeline { padding-left: 1.2rem; }
   .tl-item::before { left: calc(-1.2rem - 8.5px); }
